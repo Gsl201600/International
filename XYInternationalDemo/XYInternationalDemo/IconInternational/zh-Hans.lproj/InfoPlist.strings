@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  XYInternationalDemo
+
+  Created by Yostar on 2020/6/10.
+  Copyright © 2020 Yostar. All rights reserved.
+*/
+
+CFBundleDisplayName = "中文测试";
